@@ -1,3 +1,4 @@
+
 <div align="center">
   <table style="border: none;">
     <tr style="border: none;">
@@ -13,11 +14,4 @@
   </table>
 </div>
 
-| Lately Viewed            | My Public Repos                  |
-|--------------------------|-----------------------------------|
-| Pocketbase               | JaxOS: my NixOS dotfiles!         |
-| Go game servers          |                                   |
-| NixOS Setup Tutorials    |                                   |
-| K-d tree                 |                                   |
-| Gruvbox palette          |                                   |
 
